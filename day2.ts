@@ -86,7 +86,7 @@ function getMinimumCubesPerGame(game: Game): CountTracker {
   return minimumCubes
 }
 
-export function solveDay2() {
+export function solve() {
   const input: string = readFileSync("day2.txt", "utf-8");
   const gamesInput: string[] = input.split("\n");
   let gameId = 0;

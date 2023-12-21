@@ -1,7 +1,7 @@
 import fs from "fs"
 
 export function solvePuzzle() {
-  const puzzleInput = fs.readFileSync("./puzzle1.txt", "utf-8")
+  const puzzleInput = fs.readFileSync("./day1.txt", "utf-8")
 
   const yy: string[] = puzzleInput.split("\n")
 

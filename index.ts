@@ -1,5 +1,4 @@
-import {solvePuzzle} from "./puzzle1.js"
-import {solveDay2} from "./day2.js"
+import { solve } from "./day3.js"
 
 //solvePuzzle()
-solveDay2()
+solve()
