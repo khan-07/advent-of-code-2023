@@ -1,4 +1,4 @@
-import { solve } from "./day3.js"
+import { solve } from "./day4.js"
 
 //solvePuzzle()
 solve()
